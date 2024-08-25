@@ -60,7 +60,7 @@ This game was developed as a learning project to get familiar with Unity and C#.
 <details>
   <summary>Leer en Español</summary>
 
-  # Mi Primer Proyecto en Unity: Cuadrado Mascota Rebotador
+  # Mi Primer Proyecto en Unity: Mascota cuadrada que rebota (xD)
 
   ![Unity Badge](https://img.shields.io/badge/Unity-2021.3-blue)
   ![CSharp Badge](https://img.shields.io/badge/C%23-yes-green)
@@ -70,7 +70,7 @@ This game was developed as a learning project to get familiar with Unity and C#.
 
   ## Acerca de
 
-  **Cuadrado Mascota Rebotador** es un juego simple pero divertido donde controlas un cuadrado rebotador como tu mascota. El objetivo es mantenerlo rebotando dentro de su entorno. Este es mi primer juego creado usando Unity y C#, y demuestra mecánicas de juego básicas como física y controles simples.
+  **Mascota cuadrada que rebota** es un juego simple pero divertido donde controlas un cuadrado rebotador como tu mascota. El objetivo es mantenerlo rebotando dentro de su entorno. Este es mi primer juego creado usando Unity y C#, y demuestra mecánicas de juego básicas como física y controles simples.
 
   - **Características Principales:**
     - Simple y fácil de jugar
